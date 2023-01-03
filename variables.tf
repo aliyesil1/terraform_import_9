@@ -5,3 +5,6 @@ variable "rg_name" {
 variable "rg_location" {
  default =  "East US" 
 }
+
+variable "ali_import9_test_name" {
+}
